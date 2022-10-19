@@ -1,23 +1,6 @@
 <template>
   <MainContainer />
-</template>
-
+</template>к
 <script setup>
 import MainContainer from './components/MainContainer.vue';
-
 </script>
-<style>
-body{
-  padding: 0px;
-  margin: 0px;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-h1, h2, h3, h4 , h5, h6, p {
-  padding: 0px;
-  margin: 0px;
-}
-</style>
